@@ -1,6 +1,6 @@
 # 📌 Udemig Academy
 
-**Udemig Academy** projesi, [Öğrenim ] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Udemig Academy** projesi, [Öğrenim] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
 ![Proje Görseli](udemig-academy-gif.gif)  
 
